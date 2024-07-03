@@ -15,7 +15,7 @@ Chào mừng bạn đến với **CineLa**, nơi cung cấp trải nghiệm xem 
   ![image](https://github.com/AnLaVN/CineLa/assets/90229487/577c6110-954f-4413-9c8f-260bb95b7657)
 
 - **Đa dạng các thể loại Anime**: Từ những bộ phim kinh điển nổi tiếng của studio Ghibli đến các tác phẩm ấn tượng của Shinkai Makoto, ngoài ra bạn cũng có thể yêu cầu phim mình muốn vào kho phim của CineLa.
-  ![image](https://github.com/AnLaVN/CineLa/assets/90229487/a935e71e-68f2-408c-b85f-d3a45e5ea302)
+  ![image](https://github.com/AnLaVN/CineLa/assets/90229487/65b88ec2-01d2-4e6c-8b7b-0e876dd6b186)
 
 ## Cách sử dụng
 
