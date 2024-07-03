@@ -30,3 +30,4 @@ Chúng tôi luôn hoan nghênh các đóng góp từ cộng đồng. Nếu bạn
 - Website: [https://cinela.pages.dev](https://cinela.pages.dev)
 - GitHub: [https://github.com/AnLaVN/CineLa](https://github.com/AnLaVN/CineLa)
 - Facebook: [https://www.facebook.com/cinelavn](https://www.facebook.com/cinelavn)
+- Github Pages: [https://anlavn.github.io/CineLa](https://anlavn.github.io/CineLa)
