@@ -1,6 +1,7 @@
 # CineLa - Xem Anime Chất Lượng Cao Nhất
 
-![CineLa Logo](https://cinela.pages.dev/static/img/cinela-high-resolution-logo-transparent.png)
+![cinela-logo](https://github.com/user-attachments/assets/70b6637b-4172-4f03-a2c6-7e9e5ee27fb5)
+
 
 Chào mừng bạn đến với **CineLa**, nơi cung cấp trải nghiệm xem phim tuyệt vời với chất lượng hình ảnh cao nhất và không quảng cáo làm phiền.
 
