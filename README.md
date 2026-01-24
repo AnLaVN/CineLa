@@ -27,7 +27,7 @@ Chào mừng bạn đến với **CineLa**, nơi cung cấp trải nghiệm xem 
 
 ## Sử dụng
 
-Bạn có thể truy cập [**CineLa**](https://cinela.anivers.net) và bắt đầu thưởng thức các bộ phim Anime chất lượng cao ngay bây giờ.
+Bạn có thể truy cập [**CineLa**](https://cinela.yhub.top) và bắt đầu thưởng thức các bộ phim Anime chất lượng cao ngay bây giờ.
 
 ## Đóng góp
 
@@ -35,7 +35,7 @@ Chúng tôi luôn hoan nghênh các đóng góp từ cộng đồng. Nếu bạn
 
 ## Liên hệ
 
-- Website: [https://cinela.anivers.net](https://cinela.anivers.net)
+- Website: [https://cinela.yhub.top](https://cinela.yhub.top)
 - GitHub: [https://github.com/AnLaVN/CineLa](https://github.com/AnLaVN/CineLa)
 - Facebook: [https://www.facebook.com/cinelavn](https://www.facebook.com/cinelavn)
 - Github Pages: [https://anlavn.github.io/CineLa](https://anlavn.github.io/CineLa)
